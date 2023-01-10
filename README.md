@@ -1,4 +1,4 @@
-# STIA5015 Principles & Technique in Programming
+# STIA5014 Principles & Technique in Programming
 
 ## Syllabus
 

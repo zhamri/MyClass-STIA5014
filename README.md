@@ -20,7 +20,7 @@
 |Methods                | Percentage |
 |---------------------- |-----------:|
 |Quiz                   | 10% |
-|Lab test)              | 10% |
+|Lab Test               | 10% |
 |Assignment 1           | 10% |
 |Assignment 2           | 10% |
 |Project                | 30% |
